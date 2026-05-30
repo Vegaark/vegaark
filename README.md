@@ -1,6 +1,13 @@
-## ⚫ DARK AI SYSTEM
+# ⚫ DARK AI SYSTEM
 
-🚀 Live AI Interface:
-https://vegaark.github.io/dark-ai-dashboard/
+![Typing](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=800&lines=Initializing+Dark+AI...;System+Online;Awaiting+Commands...)
 
-⚠️ Press 'V' for voice commands
+---
+
+## 🧠 Identity
+
+```bash
+> Creator: Vega (Joshua)
+> System: Dark AI
+> Status: ACTIVE
+> Mode: Autonomous Intelligence
